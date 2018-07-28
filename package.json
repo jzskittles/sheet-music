@@ -1,0 +1,24 @@
+{
+  "name": "sheet-music",
+  "version": "1.0.0",
+  "description": "sheet music generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzskittles/sheet-music.git"
+  },
+  "keywords": [
+    "sheet",
+    "music",
+    "generator"
+  ],
+  "author": "Jenny Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzskittles/sheet-music/issues"
+  },
+  "homepage": "https://github.com/jzskittles/sheet-music#readme"
+}
